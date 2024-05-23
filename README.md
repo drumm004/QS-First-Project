@@ -18,3 +18,4 @@ The website will be a bio with the ability to create connections via registratio
 1. Establish a way to select pieces to purchase, track them in a cart, and create a "CART" page.
 2. Add a way to sort and/or search the blog posts.
 3. Create a "Past Events" historical page for posterity.
+4. Add/update social media accounts such as ETSY as they are created.
